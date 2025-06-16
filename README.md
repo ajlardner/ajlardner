@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hey, I'm Aidan 👋
 
-<!--
-**ajlardner/ajlardner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a results-oriented Software Developer with 5 years of experience building backend systems and full-stack web applications. I'm passionate about learning constantly and solving complex problems. I love working on something hard until I truly figure it out, and am committed to learning something new everyday, whether that is from colleagues or just googling as hard as I can.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently looking for new full-stack or backend development opportunities.
+- 🌱 I’m currently learning **Python** and deepening my understanding of data structures and algorithms.
+- 💬 Ask me about: **Ruby on Rails, SQL, REST API design, and building features from concept to production.**
+- 📫 How to reach me: [ajlardner95@gmail.com](mailto:ajlardner95@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aidanlardner/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### Core Technologies:
+`Ruby on Rails` `JavaScript` `SQL` `HTML/CSS` `Git` `AWS` `Angular`
