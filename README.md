@@ -12,8 +12,9 @@ Software developer with 5 years of experience building backend systems. Currentl
 
 | Project | Description |
 |---------|-------------|
+| [braindump-web](https://github.com/ajlardner/braindump-web) | Web app: paste unstructured thoughts → get todos, events, follow-ups |
 | [lingua-api](https://github.com/ajlardner/lingua-api) | Language learning API with SM-2 spaced repetition, JWT auth |
-| [braindump](https://github.com/ajlardner/braindump) | Turn messy thoughts into structured actions (AI-enhanced) |
+| [braindump](https://github.com/ajlardner/braindump) | CLI: turn messy thoughts into structured actions (AI-enhanced) |
 | [contacts-cli](https://github.com/ajlardner/contacts-cli) | Personal CRM with AI briefings and suggestions |
 | [daily](https://github.com/ajlardner/daily) | ADHD-friendly journal with AI pattern detection |
 | [jobhunt](https://github.com/ajlardner/jobhunt) | Job application tracker with AI interview prep |
