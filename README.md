@@ -3,7 +3,7 @@
 Software developer with 5 years of experience building backend systems. Currently exploring the intersection of AI and developer productivity.
 
 ## What I'm Working On
-- 🦞 Building autonomous AI agent systems with [OpenClaw](https://openclaw.ai)
+- 🦞 Experimenting with autonomous AI agent systems and their security with [OpenClaw](https://openclaw.ai)
 - 🧠 Developing a language learning app powered by LLMs and spaced repetition
 - 👨‍💻 Building AI-powered CLI tools for productivity
 - 💼 Looking for backend/full-stack opportunities where I can solve hard problems
