@@ -14,10 +14,7 @@ Software developer with 5 years of experience building backend systems. Currentl
 |---------|-------------|
 | [lyra](https://github.com/ajlardner/lyra) | Learn languages through music - Spotify lyrics + translation + vocab export |
 | [lingua-api](https://github.com/ajlardner/lingua-api) | Language learning API with SM-2 spaced repetition, JWT auth |
-| [braindump-web](https://github.com/ajlardner/braindump-web) | Web app: paste unstructured thoughts → get todos, events, follow-ups |
-| [braindump](https://github.com/ajlardner/braindump) | CLI: turn messy thoughts into structured actions (AI-enhanced) |
-| [contacts-cli](https://github.com/ajlardner/contacts-cli) | Personal CRM with AI briefings and suggestions |
-| [daily](https://github.com/ajlardner/daily) | ADHD-friendly journal with AI pattern detection |
+| [openclaw-ollama-docker](https://github.com/ajlardner/openclaw-ollama-docker) | Experimenting with autonomous LLM agents and their security |
 
 ## Tech I Work With
 **Backend:** Ruby on Rails, PostgreSQL, REST APIs, Background Jobs  
