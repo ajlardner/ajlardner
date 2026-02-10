@@ -1,6 +1,6 @@
 # Hey, I'm Aidan 👋
 
-Software developer with 5 years of experience building backend systems. Currently exploring the intersection of AI and developer productivity.
+Software developer with 5 years of experience in the full development lifecycle. Currently exploring the intersection of AI and developer productivity.
 
 ## What I'm Working On
 - 🦞 Experimenting with autonomous AI agent systems and their security with [OpenClaw](https://openclaw.ai)
