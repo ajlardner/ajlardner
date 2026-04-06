@@ -1,31 +1,20 @@
-# Hey, I'm Aidan 👋
+# Aidan Lardner
 
-Software developer with 5 years of experience in the full development lifecycle. Currently exploring the intersection of AI and developer productivity.
+Full Stack Engineer with 5+ years of experience in the full development lifecycle. Interested in productivity systems, linguistics and LLM integration and optimization. Focus in sales and marketing technology.
 
-## What I'm Working On
+## Skills
 
-* 🧠 Developing a language learning app powered by LLMs and spaced repetition
-* 💼 Looking for backend/full-stack opportunities where I can solve hard problems
-
-## Recent Projects
-
-|Project|Description|
-|-|-|
-|[lingua-api](https://github.com/ajlardner/lingua-api)|Language learning API with SM-2 spaced repetition, JWT auth|
-|[lingua-frontend](https://github.com/ajlardner/lingua-frontend)|Language learning web appthat consumes the lingua API|
-
-## Tech I Work With
-
-**Backend:** Ruby on Rails, PostgreSQL, REST APIs, Background Jobs  
-**Frontend:** JavaScript, React, HTML/CSS  
-**AI/Tools:** Claude, LLM integration, Prompt Engineering  
-**Infrastructure:** AWS, Docker, Git, Linux
+Ruby on Rails, SQL, Rest APIs, General scripting
+Typescript, Angular, React
+Claude Code, LLMs, Prompt engineering  
+Docker, AWS
+Salesforce, Hubspot, n8n, Marketing and sales automation
 
 ## About Me
 
-I spent 5 years at a nonprofit tech company building donation platforms that processed millions in transactions. I like digging into complex problems until I understand them completely.
+I am a fast, self directed learner with a hunger for new problems to solve and knowledge to gain. I'm capable of filling many different roles within or across teams, from communicating with customers or other non-technical stakeholders to more strictly engineering. I can understand a codebase completely, and I can also work nimbly across tools and tech stacks to solve problems efficiently and independently.
 
-Currently learning Spanish and building tools to help myself learn faster.
+Open to work.
 
-📫 [ajlardner95@gmail.com](mailto:ajlardner95@gmail.com) | [LinkedIn](https://linkedin.com/in/aidanlardner)
+[ajlardner95@gmail.com](mailto:ajlardner95@gmail.com) | [LinkedIn](https://linkedin.com/in/aidanlardner)
 
