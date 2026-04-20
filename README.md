@@ -1,6 +1,10 @@
 # Aidan Lardner
 
-Full Stack Engineer with 5+ years of experience in the full development lifecycle. Interested in productivity systems, linguistics and LLM integration and optimization. Focus in sales and marketing technology.
+Full Stack Engineer with 5+ years of experience in the full development lifecycle. Interested in productivity systems, linguistics, and LLM integration / optimization. Focus in sales and marketing technology.
+
+## Projects
+### [Local LLM Setup](https://www.github.com/ajlardner/local-llm) 
+Docker Compose stack for running an LLM locally using llama.cpp, Opencode, and OpenWebUI
 
 ## Skills
 
