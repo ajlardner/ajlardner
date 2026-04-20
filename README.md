@@ -2,6 +2,10 @@
 
 Full Stack Engineer with 5+ years of experience in the full development lifecycle. Interested in productivity systems, linguistics and LLM integration and optimization. Focus in sales and marketing technology.
 
+## Projects
+### [Lector](https://www.github.com/ajlardner/lector) 
+An app for learning new languages by reading, with in-place translations using LLM integrations, persistent memory for vocabulary lookups, and flashcard generation
+
 ## Skills
 
 - Ruby on Rails, SQL, Rest APIs, General scripting
