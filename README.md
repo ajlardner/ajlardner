@@ -1,6 +1,6 @@
 # Aidan Lardner
 
-## Software Engineer at [HHAeXchange](https://www.linkedin.com/company/hhaexchange)
+#### Software Engineer at [HHAeXchange](https://www.linkedin.com/company/hhaexchange)
 
 Full Stack Engineer with 5+ years of experience in the full development lifecycle. Interested in productivity systems, linguistics, and LLM integration / optimization.
 
@@ -8,7 +8,6 @@ Full Stack Engineer with 5+ years of experience in the full development lifecycl
 ### [Local LLM Setup](https://www.github.com/ajlardner/local-llm) 
 Docker Compose stack for running an LLM locally using llama.cpp, Opencode, and OpenWebUI
 
-## Projects
 ### [Pi Coding Agent Config](https://github.com/ajlardner/pi-coding-agent-config)
 Configuration files, extensions, and other persistent files for my Pi Coding Agent setup
 
