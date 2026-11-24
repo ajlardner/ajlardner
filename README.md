@@ -15,4 +15,4 @@ Sandbox isolation setup for pi coding agent. In active development and being ada
 ### [Pi Coding Agent Config](https://github.com/ajlardner/pi-coding-agent-config)
 Configuration files, extensions, and other persistent files for my Pi Coding Agent setup
 
-[aj+github@ajlardner.net](mailto:aj+github@ajlardner.net)
+[github@ajlardner.net](mailto:github@ajlardner.net)
